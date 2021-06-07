@@ -1,3 +1,7 @@
 /venv/*
 /ebooksapi.iml
 /.idea/*
+/venv/Include/
+/venv/Lib/
+/venv/Scripts/
+/venv/pyvenv.cfg
